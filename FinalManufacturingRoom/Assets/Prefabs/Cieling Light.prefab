@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 1184219290459528311}
   - component: {fileID: 6148717114347010618}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Cieling Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
